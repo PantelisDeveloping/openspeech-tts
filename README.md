@@ -78,7 +78,7 @@ Python 3.10 + above with the following libarires in a virtual environment:
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is a step by step installation guide to run succesfuly the TTS Server._
 
 1. Clone the repo
    ```sh
