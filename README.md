@@ -11,7 +11,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
     
   <h3 align="center">OpenSpeech TTS API</h3>
 
