@@ -12,7 +12,7 @@ app = Flask(__name__)
 API_KEY = getpass.getpass("Enter your desired API key: ")
 PORT = int(input("Enter the port number: "))
 
-tprint("OPEN VOICE")
+tprint("OPEN SPEECH")
 print(f"OpenSource TTS API Compatible with OpenAI API")
 print(f" ")
 print(f"   ---------------------------------------------------------------- ")
