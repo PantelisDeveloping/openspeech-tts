@@ -1,0 +1,9 @@
+curl http://localhost:5000/v1/audio/speech \
+  -H "Authorization: Bearer API-KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "tts-1",
+    "input": "Today is a wonderful day to build something people love!",
+    "voice": "alloy"
+  }' \
+  --output speech.mp3
