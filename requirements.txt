@@ -2,3 +2,4 @@ Flask
 edge-tts
 cryptography
 gevent
+art
