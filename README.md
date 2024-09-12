@@ -32,8 +32,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 OpenSpeech TTS is a user-friendly and efficient Text-to-Speech (TTS) API designed to seamlessly integrate with OpenAI's powerful text-to-speech capabilities. This project aims to provide developers with a simple and effective tool to convert text into natural-sounding speech, making it ideal for various applications such as voice assistants, audiobooks, and accessibility tools.
 
 Key Features:
