@@ -71,6 +71,7 @@ Python 3.10 + above with the following libarires in a virtual environment:
   pip install edge-tts
   pip install cryptography
   pip install gevent
+  pip install art
   
   ```
 
@@ -129,14 +130,14 @@ _For the request example, please refer to the [Sample Request Curl](https://exam
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Add main api.py file
+- [ ] Add Additional Examples
+- [ ] Adding secure https connection
+- [ ] Adding more endpoints from OpenAI API
+    - [ ] v1/audio/translations
+    - [ ] v1/audio/transcriptions
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/PantelisDeveloping/openspeech-tts/) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,9 +152,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b PantelisDeveloping/openspeech-tts`)
+3. Commit your Changes (`git commit -m 'Committing changes'`)
+4. Push to the Branch (`git push origin PantelisDeveloping/openspeech-tts`)
 5. Open a Pull Request
 
 <!-- LICENSE -->
