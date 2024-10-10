@@ -1,0 +1,12 @@
+{
+    "point": "app.openspeech.query",
+    "params": {
+        "app_id": "61248ab4-1125-45be-ae32-0ce91334d021",
+        "tool_variable": "openspeech-tts",
+        "options": {
+            "model": "tts-1",
+            "voice": "alloy"
+        },
+        "input": "How's the weather today?"
+    }
+}
